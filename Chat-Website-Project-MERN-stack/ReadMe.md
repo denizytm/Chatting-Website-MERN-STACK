@@ -1,5 +1,4 @@
-#Chatting Website Project
-#Welcome to my first published project. 
+Welcome to my first published project. 
 
 This project is builded for communicate to each people you found in the site.You can search for people and see their profile. If you insterested you can send them friend request.
 After that you can chat with your friends , send them pictures at real time.
